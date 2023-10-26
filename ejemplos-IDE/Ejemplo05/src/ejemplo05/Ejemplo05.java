@@ -22,7 +22,7 @@ public class Ejemplo05 {
         System.out.println("----------------");
         System.out.println(10 / 3.0);
         
-        System.out.println("----------------");
+        System.out.println("----------------"); 
         System.out.println(10 / 3.0 + 1);
         System.out.println(10 / (3.0 + 1));
         
@@ -30,14 +30,14 @@ public class Ejemplo05 {
         System.out.println(10 % 3 );
         
         System.out.println("----------------");
-        System.out.println(Math.pow(10, 2));
-        
+        System.out.println(Math.pow(10, 2)); // el metodo pow me permite elevar un valor a una potencia
+        /*
         System.out.println("----------------");
         System.out.println(Math.sqrt(16));
         
         double m = Math.sqrt(16);
         System.out.println(m);
-        
+        */
     }
 
 }

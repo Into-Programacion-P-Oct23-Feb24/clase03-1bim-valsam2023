@@ -28,10 +28,13 @@ public class Ejemplo03 {
         */
         int variable1;
         int variable2 = 10;
-        int valorInicial = 18;
-        int valor_inicial = 18;
+        int valorInicial = 18; //ok
+        int valor_inicial = 18; //ok
+        int valorinicial = 18; 
+        int Valor_inicial = 18; //no usar
         // int valor inicial = 18;
         int valor_inicial_2 = 18;
+        
 
         // Tipo de datos Double - Decimal
         double variable3;
