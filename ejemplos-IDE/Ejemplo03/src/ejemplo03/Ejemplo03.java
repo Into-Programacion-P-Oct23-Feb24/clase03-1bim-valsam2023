@@ -15,23 +15,16 @@ public class Ejemplo03 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Tipos de dato en Java
+        // Para crear un comentario de una linea debemos escribir dentro de los "/" seguido de un espacio
         
         // Tipos de dato en Java
 
         // Tipo de datos Entero
         
         /*
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
+        Para crear un comentario de multiples lineas se escribe un "/" seguido de un asterisco
+        y dentro escribir nuestro comentario, y al finalizar nuestro comentario en otra linea poner un 
+        asterisco y un "/".
         */
         int variable1;
         int variable2 = 10;
